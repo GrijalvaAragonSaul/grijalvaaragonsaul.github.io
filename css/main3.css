@@ -1,0 +1,75 @@
+
+h1{
+    text-align: center;
+    border-top-width: 5px;
+    border: 5px double #BDAEC6;
+    color: #9C0063;
+    text-shadow: 5px 5px 4px #D693BD;
+  }
+  h2{
+    margin-left: 25px;
+    font-family: "Cambria", monospace;
+  }
+  h2 span{
+    font-size: 30px;
+    padding: 0px;
+    vertical-align: middle;
+    color: red;
+    }
+  p{
+    text-align: justify;
+    font-family: "Cambria",sans-serif;
+    font-size: 19px;
+    margin: 25px;
+  }
+  img{
+    width: 250px;
+    margin: 20px;
+    border-style: dashed;
+    float:right;
+  }
+ #disqus_thread{
+   padding: 25px;
+ }
+ .premature {
+   width: 960px;
+   margin: 0 auto;
+   background-image: url("../img/linux.jpg");
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+ }
+ 
+  
+  .cont{
+    overflow: hidden;
+  }
+ 
+  .m1,
+  .menu{
+    float: left;
+    width:26%;
+    background-color: #008080;
+
+  }
+  .m1 ul,
+  .menu ul{
+    font-size: 22px;
+    font-variant: small-caps;
+    font-family: Calibri,"Garamond",monospace;
+    list-style-type: none;
+  }
+  .m1 ul li,
+  .menu ul li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
+  
+  .texto{
+    float: right;
+    width: 74%;
+    background-color: #808080;
+  }
+ 
